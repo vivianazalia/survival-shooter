@@ -6,6 +6,7 @@
 [Tt]emp/
 [Oo]bj/
 [Bb]uilds/
+[Bb]uild/
 [Ll]ogs/
 [Mm]emoryCaptures/
 
@@ -50,7 +51,7 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
-# Builds
+# Build
 *.apk
 *.unitypackage
 
